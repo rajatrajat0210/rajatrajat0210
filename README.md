@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Rajat</h1>
 <h3 align="center">A Passionate Computer Engineer and Aspiring Software Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+<div style="display: flex; justify-content: center; align-items: center; flex-direction: row;">
+  <div style="flex: 1; padding-right: 10px;">
+    <p align="center">
+      <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+    </p>
+  </div>
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rajatrajat0210&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -56,3 +63,4 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rajatrajat0210&show_icons=true&locale=en" alt="Rajat's GitHub Stats" />
 </p>
+
