@@ -36,7 +36,7 @@
 
 ### 💼 **About Me**
 - **Education**: Recent graduate in Computer Engineering from York University, Toronto.  
-- **Certifications**: Microsoft Azure Fundamentals (AZ-900).  
+- **Certifications**: Microsoft Azure Fundamentals (AZ-900) , (AZ-104) in progress....
 - **Experience**: Hands-on with automation testing, backend development, and cloud platforms like Azure.  
 - **Interests**: Passionate about building impactful software solutions, exploring emerging technologies, and continuous learning.  
 
