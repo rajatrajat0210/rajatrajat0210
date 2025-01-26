@@ -17,6 +17,7 @@
 
 ### 🔭 **Current Projects**
 - **AI Cold Email Generator**: Leveraging machine learning and natural language processing to streamline email communication.
+- **A Cloud-native application**: for real time resource monitoring, built with python, Docker, and Kubernetes, leveraging AWS services for scalable deployment.
 - **Full-Stack Time Management Tool**: A web app to track tasks, budgets, and notifications.
 
 ---
