@@ -18,14 +18,14 @@
 ### 🔭 **Current Projects**
 - **AI Cold Email Generator**: Leveraging machine learning and natural language processing to streamline email communication.
 - **A Cloud-native application**: for real time resource monitoring, built with python, Docker, and Kubernetes, leveraging AWS services for scalable deployment.
-- **Full-Stack Time Management Tool**: A web app to track tasks, budgets, and notifications.
+- **An AI Virtual Architect**: A FASTAPI based RAG LLM Model for analysing floorplans to get AI recommendations.
 
 ---
 
 ### 🌱 **Currently Learning**
 - Advanced **Artificial Intelligence** techniques.
 - **DevOps** tools and practices.
-- Building scalable applications with **Full-Stack Development**.
+- Building scalable Full stack and AI applications with **Full-Stack Development**.
 
 ---
 
