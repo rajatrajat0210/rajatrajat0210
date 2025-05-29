@@ -25,7 +25,7 @@
 ### 🌱 **Currently Learning**
 - Advanced **Artificial Intelligence** techniques.
 - **DevOps** tools and practices.
-- Building scalable Full stack and AI applications with **Full-Stack Development**.
+- Building scalable Full stack Web-based API and AI applications with **Full-Stack Development**.
 
 ---
 
@@ -37,7 +37,7 @@
 
 ### 💼 **About Me**
 - **Education**: Recent graduate in Computer Engineering from York University, Toronto.  
-- **Certifications**: Microsoft Azure Fundamentals (AZ-900) , (AZ-104) in progress....
+- **Certifications**: Microsoft Azure Fundamentals (AZ-900) , (AWS Solution Architect)
 - **Experience**: Hands-on with automation testing, backend development, and cloud platforms like Azure.  
 - **Interests**: Passionate about building impactful software solutions, exploring emerging technologies, and continuous learning.  
 
